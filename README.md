@@ -2,7 +2,7 @@
     <p align="center">
       <img src="./docs/head.png" alt="React Hook Form Logo - React hook custom hook for form validation" />
     </p>
-</div>
+</div> 
 
 <div align="center">
 
